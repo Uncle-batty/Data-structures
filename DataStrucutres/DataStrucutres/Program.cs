@@ -10,25 +10,48 @@ namespace DataStrucutres
     {
         static void Main(string[] args)
         {
-            DynamicArray<int> dynamicArray = new DynamicArray<int>(2);
-
-            for (int i = 0; i < 10; i++)
+            IsAnagram("atr", "rat");
+            Console.ReadKey();  
+        }
+            public static bool IsAnagram(string s, string t)
             {
-                dynamicArray.append(i);
-            }
+                if (s.Length != t.Length)
+                {
+                    return false;
+                }
+                HashSet<int> myset = new HashSet<int>();
+                HashSet<int> myset2 = new HashSet<int>();
+                int k = 0;
+                int j = 0;
+                while (k != s.Length && j != t.Length)
+                {
+                Console.WriteLine($"K={k} and J={j}");
+                    if (s[k] == t[j])
+                    {
+                        if (myset2.Contains(j))
+                        {
+                            continue;
+                        }
+                        else
+                        {
+                            myset.Add(k);
+                            myset2.Add(j);
+                            j = 0;
+                            k++;
+                        }
+                    }
+                    j++;
+                }
+                if (myset2.Count == s.Length)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
 
-            Console.WriteLine(dynamicArray.get(3));
-            Console.WriteLine(dynamicArray.length());
-            dynamicArray.remove(3);
-            Console.WriteLine(dynamicArray.length());
-          
-            
-
-            foreach (int i in dynamicArray)
-            {
-                Console.WriteLine(i);
             }
-            Console.ReadLine();
         }
     }
-}
+
