@@ -133,7 +133,22 @@ namespace DataStrucutres
                 current = current.next;
             }
         }
+        public void ReverseList()
+        {
+            Node current = head;
+            Node previous = null;
 
+            while (current != null)
+            {
+                Node tempcur = current.next;
+                current.next = previous;
+
+                previous = current;
+                current = tempcur;
+
+            }
+            head = previous;
+        }
     }
 
 }
