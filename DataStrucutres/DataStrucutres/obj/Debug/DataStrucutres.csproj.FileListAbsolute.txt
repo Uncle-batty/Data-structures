@@ -10,7 +10,6 @@ C:\Users\batty\OneDrive\Desktop\Projects\Data-structures\DataStrucutres\DataStru
 C:\Users\batty\OneDrive\Desktop\Projects\Data-structures\DataStrucutres\DataStrucutres\bin\Debug\DataStrucutres.exe
 C:\Users\batty\OneDrive\Desktop\Projects\Data-structures\DataStrucutres\DataStrucutres\bin\Debug\DataStrucutres.pdb
 C:\Users\batty\OneDrive\Desktop\Projects\Data-structures\DataStrucutres\DataStrucutres\obj\Debug\DataStrucutres.csproj.AssemblyReference.cache
-C:\Users\batty\OneDrive\Desktop\Projects\Data-structures\DataStrucutres\DataStrucutres\obj\Debug\DataStrucutres.csproj.SuggestedBindingRedirects.cache
 C:\Users\batty\OneDrive\Desktop\Projects\Data-structures\DataStrucutres\DataStrucutres\obj\Debug\DataStrucutres.csproj.CoreCompileInputs.cache
 C:\Users\batty\OneDrive\Desktop\Projects\Data-structures\DataStrucutres\DataStrucutres\obj\Debug\DataStrucutres.exe
 C:\Users\batty\OneDrive\Desktop\Projects\Data-structures\DataStrucutres\DataStrucutres\obj\Debug\DataStrucutres.pdb

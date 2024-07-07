@@ -8,13 +8,13 @@ namespace DataStrucutres
 {
     internal class useing_Linked_list
     {
-        string[] songs = { "What i've done", "Run", "Gonna go far kid" };
-        LinkedList<string> Songs = new LinkedList<string>(songs);
+    //    string[] songs = { "What i've done", "Run", "Gonna go far kid" };
+    //    LinkedList<string> Songs = new LinkedList<string>(songs);
 
-        Songs.AddFirst("How you remind me"); //play the song now 
-            Songs.AddLast("Ghost");// Add to queue
+    //    Songs.AddFirst("How you remind me"); //play the song now 
+    //        Songs.AddLast("Ghost");// Add to queue
 
-            foreach (string s in Songs) { Console.WriteLine(s); }
-    Console.ReadKey();
+    //        foreach (string s in Songs) { Console.WriteLine(s); }
+    //Console.ReadKey();
     }
 }

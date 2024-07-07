@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\batty\\OneDrive\\Desktop\\Projects\\Data-structures\\DataStrucutres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|C:\\Users\\batty\\OneDrive\\Desktop\\Projects\\Data-structures\\DataStrucutres\\datastrucutres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|solutionrelative:datastrucutres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|c:\\users\\batty\\onedrive\\desktop\\projects\\data-structures\\datastrucutres\\datastrucutres\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|solutionrelative:datastrucutres\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Palindrome.cs",
+              "DocumentMoniker": "C:\\Users\\batty\\OneDrive\\Desktop\\Projects\\Data-structures\\DataStrucutres\\DataStrucutres\\Palindrome.cs",
+              "RelativeDocumentMoniker": "DataStrucutres\\Palindrome.cs",
+              "ToolTip": "C:\\Users\\batty\\OneDrive\\Desktop\\Projects\\Data-structures\\DataStrucutres\\DataStrucutres\\Palindrome.cs",
+              "RelativeToolTip": "DataStrucutres\\Palindrome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:48:14.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\batty\\OneDrive\\Desktop\\Projects\\Data-structures\\DataStrucutres\\DataStrucutres\\Program.cs",
+              "RelativeDocumentMoniker": "DataStrucutres\\Program.cs",
+              "ToolTip": "C:\\Users\\batty\\OneDrive\\Desktop\\Projects\\Data-structures\\DataStrucutres\\DataStrucutres\\Program.cs",
+              "RelativeToolTip": "DataStrucutres\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T23:37:52.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
