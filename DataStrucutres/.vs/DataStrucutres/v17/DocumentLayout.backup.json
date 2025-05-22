@@ -3,15 +3,11 @@
   "WorkspaceRootPath": "F:\\Work\\GitHub\\Data-structures\\DataStrucutres\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|F:\\Work\\GitHub\\Data-structures\\DataStrucutres\\datastrucutres\\myhashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|solutionrelative:datastrucutres\\myhashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|f:\\work\\github\\data-structures\\datastrucutres\\datastrucutres\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|solutionrelative:datastrucutres\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|F:\\Work\\GitHub\\Data-structures\\DataStrucutres\\datastrucutres\\usequeues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|f:\\work\\github\\data-structures\\datastrucutres\\datastrucutres\\usequeues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|solutionrelative:datastrucutres\\usequeues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|solutionrelative:datastrucutres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|F:\\Work\\GitHub\\Data-structures\\DataStrucutres\\datastrucutres\\linked list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|f:\\work\\github\\data-structures\\datastrucutres\\datastrucutres\\linked list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|solutionrelative:datastrucutres\\linked list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -29,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|F:\\Work\\GitHub\\Data-structures\\DataStrucutres\\datastrucutres\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|solutionrelative:datastrucutres\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|F:\\Work\\GitHub\\Data-structures\\DataStrucutres\\datastrucutres\\myhashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB64DD8C-55B9-4EF5-A6E4-E68E191DBB2B}|DataStrucutres\\DataStrucutres.csproj|solutionrelative:datastrucutres\\myhashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Queue.cs",
               "DocumentMoniker": "F:\\Work\\GitHub\\Data-structures\\DataStrucutres\\DataStrucutres\\Queue.cs",
               "RelativeDocumentMoniker": "DataStrucutres\\Queue.cs",
               "ToolTip": "F:\\Work\\GitHub\\Data-structures\\DataStrucutres\\DataStrucutres\\Queue.cs",
               "RelativeToolTip": "DataStrucutres\\Queue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T12:14:17.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UseQueues.cs",
               "DocumentMoniker": "F:\\Work\\GitHub\\Data-structures\\DataStrucutres\\DataStrucutres\\UseQueues.cs",
               "RelativeDocumentMoniker": "DataStrucutres\\UseQueues.cs",
@@ -63,11 +63,12 @@
               "RelativeToolTip": "DataStrucutres\\UseQueues.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAuwD4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T12:14:15.815Z"
+              "WhenOpened": "2025-04-19T12:14:15.815Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Linked list.cs",
               "DocumentMoniker": "F:\\Work\\GitHub\\Data-structures\\DataStrucutres\\DataStrucutres\\Linked list.cs",
               "RelativeDocumentMoniker": "DataStrucutres\\Linked list.cs",
@@ -75,11 +76,12 @@
               "RelativeToolTip": "DataStrucutres\\Linked list.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T22:41:11.44Z"
+              "WhenOpened": "2025-02-07T22:41:11.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "useing Linked list.cs",
               "DocumentMoniker": "F:\\Work\\GitHub\\Data-structures\\DataStrucutres\\DataStrucutres\\useing Linked list.cs",
               "RelativeDocumentMoniker": "DataStrucutres\\useing Linked list.cs",
@@ -91,20 +93,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "MyHashset.cs",
               "DocumentMoniker": "F:\\Work\\GitHub\\Data-structures\\DataStrucutres\\DataStrucutres\\MyHashset.cs",
               "RelativeDocumentMoniker": "DataStrucutres\\MyHashset.cs",
               "ToolTip": "F:\\Work\\GitHub\\Data-structures\\DataStrucutres\\DataStrucutres\\MyHashset.cs",
               "RelativeToolTip": "DataStrucutres\\MyHashset.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T22:34:21.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T22:34:21.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Palindrome.cs",
               "DocumentMoniker": "F:\\Work\\GitHub\\Data-structures\\DataStrucutres\\DataStrucutres\\Palindrome.cs",
               "RelativeDocumentMoniker": "DataStrucutres\\Palindrome.cs",
@@ -116,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Work\\GitHub\\Data-structures\\DataStrucutres\\DataStrucutres\\Program.cs",
               "RelativeDocumentMoniker": "DataStrucutres\\Program.cs",
@@ -124,7 +125,8 @@
               "RelativeToolTip": "DataStrucutres\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T23:37:52.415Z"
+              "WhenOpened": "2024-04-19T23:37:52.415Z",
+              "EditorCaption": ""
             }
           ]
         }

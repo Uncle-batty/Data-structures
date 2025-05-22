@@ -53,6 +53,7 @@
     <Compile Include="Queue.cs" />
     <Compile Include="Stringmanipulation.cs" />
     <Compile Include="useing Linked list.cs" />
+    <Compile Include="UseQueues.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

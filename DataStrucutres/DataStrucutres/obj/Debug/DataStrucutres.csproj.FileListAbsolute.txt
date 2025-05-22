@@ -13,3 +13,10 @@ C:\Users\batty\OneDrive\Desktop\Projects\Data-structures\DataStrucutres\DataStru
 C:\Users\batty\OneDrive\Desktop\Projects\Data-structures\DataStrucutres\DataStrucutres\obj\Debug\DataStrucutres.csproj.CoreCompileInputs.cache
 C:\Users\batty\OneDrive\Desktop\Projects\Data-structures\DataStrucutres\DataStrucutres\obj\Debug\DataStrucutres.exe
 C:\Users\batty\OneDrive\Desktop\Projects\Data-structures\DataStrucutres\DataStrucutres\obj\Debug\DataStrucutres.pdb
+F:\Work\GitHub\Data-structures\DataStrucutres\DataStrucutres\obj\Debug\DataStrucutres.csproj.AssemblyReference.cache
+F:\Work\GitHub\Data-structures\DataStrucutres\DataStrucutres\obj\Debug\DataStrucutres.csproj.CoreCompileInputs.cache
+F:\Work\GitHub\Data-structures\DataStrucutres\DataStrucutres\obj\Debug\DataStrucutres.exe
+F:\Work\GitHub\Data-structures\DataStrucutres\DataStrucutres\obj\Debug\DataStrucutres.pdb
+F:\Work\GitHub\Data-structures\DataStrucutres\DataStrucutres\bin\Debug\DataStrucutres.exe.config
+F:\Work\GitHub\Data-structures\DataStrucutres\DataStrucutres\bin\Debug\DataStrucutres.exe
+F:\Work\GitHub\Data-structures\DataStrucutres\DataStrucutres\bin\Debug\DataStrucutres.pdb
